@@ -1,4 +1,11 @@
 # LemkeKellyPortfolio
+
+## [Graphic Redesign](https://klemke1.github.io/LemkeKellyPortfolio/GraphicRedesign.html)
+
+
+
+
+
 Kelly Lemke's Portfolio
 # portfolio
 This is my first Github portfolio.
