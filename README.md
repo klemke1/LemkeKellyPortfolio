@@ -1,7 +1,7 @@
 # Kelly Lemke's Portfolio
 
 ## [Government Debt Visualization](https://klemke1.github.io/LemkeKellyPortfolio/GovernmentDebtVis2.html)
-## [Graphic Redesign](https://klemke1.github.io/LemkeKellyPortfolio/WeatherGraphicRedesign.html)
+## [Weather Graphic Redesign](https://klemke1.github.io/LemkeKellyPortfolio/WeatherGraphicRedesign.html)
 ## [Final Project Part 1](https://klemke1.github.io/LemkeKellyPortfolio/FinalProjectPart1_KellyLemke.html)
 ## [Final Project Part 2](https://klemke1.github.io/LemkeKellyPortfolio/FinalProjectPart2)
 
