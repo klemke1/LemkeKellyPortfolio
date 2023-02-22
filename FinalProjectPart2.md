@@ -26,5 +26,6 @@ Fortunately, I have several people in my life who follow the NFL very closely wh
 	
 # Shorthand
 	Here is the link to my Shorthand preview. 
-	[Link to Shorthand Preview](https://preview.shorthand.com/WtHkIMww9eJsFPpE#group-section-YRRllLJetG)
-		I used both Flourish and Tableau for creating my visualizations. I also utilized Canva for sizing purposes to make it fit into my Shorthand presentation. I used a timeline Shorthand template that allowed me to tell my story more effectively and leave the reader with an engaging yet readable presentation. All my sources are included as links by their respective graphs or information. 
+	[Link to Shorthand Preview] (https://preview.shorthand.com/WtHkIMww9eJsFPpE#group-section-YRRllLJetG)
+		
+I used both Flourish and Tableau for creating my visualizations. I also utilized Canva for sizing purposes to make it fit into my Shorthand presentation. I used a timeline Shorthand template that allowed me to tell my story more effectively and leave the reader with an engaging yet readable presentation. All my sources are included as links by their respective graphs or information. 
