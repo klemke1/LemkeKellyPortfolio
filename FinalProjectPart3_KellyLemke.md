@@ -1,13 +1,10 @@
-| [home page](https://cmustudent.github.io/tswd-portfolio-templates/) | [visualizing debt](visualizing-government-debt) | [critique by design](critique-by-design) | [final project I](final-project-part-one) | [final project II](final-project-part-two) | [final project III](final-project-part-three) |
-
-# Title
+# NFL Concussion Rates
 # The final data story
-> Include a link to your final data story on Shorthand, Esri StoryMaps, etc. here. 
-Text here!
+> [NFL Concussions Shorthand Website](https://carnegiemellon.shorthandstories.com/nfl-concussion-rates/index.html)
+This is my completed Shorthand website with my final project for CMU Heinz's Telling Stories with Data.
 
 # Changes made since Part II
-> Include few paragraphs that reflects on changes you made since the completion of Part II. 
-Text here!
+> Since Part 2, I made significant changes to my Shorthand. I changed the colors to be more cohesive within the story and theme of football. This change was initiated by peer feedback and also the pictures that were added afterward. I was struggling with where to add color since initially I was not sure if it was necessary or not. I think it looks much more engaging with color. It also helps with interpretation too, the offensive and defensive bubble chart was much easier to understand once the colors were different because it was a scrollmation. It made them both more distinct when they transition from defense to offense. I also made the biggest change to the last two visualizations. I joined the data together so that the visualization was easier to understand. I was trying to make the relationship more clear between coach pay and higher rates of concussions. I wanted to incorporate a visual that was more graphic in nature rather than another table or graph. I liked the addition of helmets and the dollars made it easy to understand what I was getting at. I really enjoyed using the helmets too since its a call out of the specific teams in a creative way. I also made the fonts and sizes of data markers to be more pronounced so that when I was presenting it would be easier to see as I was quickly scrolling through.
 
 ## The audience
 > Talk about who you identified as the audience for your final data story.  Include any other information you've used that helped you narrow the focus (e.g. insights from your interviews, personas, etc.).  Note any specific adjustments you made to your final project to make it work for your audience.
